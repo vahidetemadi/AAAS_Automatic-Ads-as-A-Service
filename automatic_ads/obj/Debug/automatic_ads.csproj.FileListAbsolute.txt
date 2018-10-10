@@ -1,0 +1,10 @@
+c:\users\vahid\documents\visual studio 2010\Projects\automatic_ads\automatic_ads\bin\automatic_ads.dll
+c:\users\vahid\documents\visual studio 2010\Projects\automatic_ads\automatic_ads\bin\automatic_ads.pdb
+c:\users\vahid\documents\visual studio 2010\Projects\automatic_ads\automatic_ads\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vahid\documents\visual studio 2010\Projects\automatic_ads\automatic_ads\obj\Debug\automatic_ads.dll
+c:\users\vahid\documents\visual studio 2010\Projects\automatic_ads\automatic_ads\obj\Debug\automatic_ads.pdb
+C:\Users\vahid\Desktop\New folder (3)\automatic_ads\automatic_ads\bin\automatic_ads.dll
+C:\Users\vahid\Desktop\New folder (3)\automatic_ads\automatic_ads\bin\automatic_ads.pdb
+C:\Users\vahid\Desktop\New folder (3)\automatic_ads\automatic_ads\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vahid\Desktop\New folder (3)\automatic_ads\automatic_ads\obj\Debug\automatic_ads.dll
+C:\Users\vahid\Desktop\New folder (3)\automatic_ads\automatic_ads\obj\Debug\automatic_ads.pdb

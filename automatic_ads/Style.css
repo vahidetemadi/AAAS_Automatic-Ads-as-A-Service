@@ -1,0 +1,97 @@
+﻿*
+{
+    margin:0;
+    padding:0;
+}
+
+body
+{
+    width: 100%;
+    background-color: #4848FF;
+}
+
+#wrapper
+{
+    width:70%;
+    margin:auto;
+}
+
+#header
+{
+    background-color:Green;
+    border:5px solid White;
+    width:100%;
+    height:80px;
+    padding-top:40px;
+    margin-top:20px;
+}
+
+#header h1
+{
+    font-family:Courier New CYR;
+    font-weight: bold;
+    margin-left:80px;
+    color: white;
+}
+
+#form
+{
+    position:relative;
+    width:100%;
+    background-color:Gray;
+    border:5px solid White; 
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#form h1
+{
+    margin-left:30px;
+    margin-top:30px;
+    font-size:15pt;
+}
+
+#form table
+{
+    margin-left:50px;
+}
+
+#form p
+{
+    margin-left:30px;
+    margin-top:50px;
+    width:470px;
+}
+
+#form p input
+{
+    font-size:16pt;
+    float:right;
+    width:300px;
+    height:30px;
+}
+
+
+.desc
+{
+    position: absolute;
+    left: 320px;
+    top: 90px;
+    right:40px;
+    padding:10px;
+    background-color: #FFFFFF;
+}
+
+.button
+{
+    position:absolute;
+    font-weight:bold;
+    right:113px;
+    bottom:5px;
+    width:70px;
+    height:35px;
+    left: 874px;
+}
+
+
+
